@@ -19,4 +19,5 @@ https://gzc16.github.io/lesson5_javascript2/
 1. The length property returns the amount of values in the array. 
 2. Javascript values that are assigned to array elements can be different datatypes. 
 3. Creating reference variables needs to consist of constructors. 
+4. created a new repo
 
